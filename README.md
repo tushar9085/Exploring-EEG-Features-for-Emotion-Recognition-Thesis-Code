@@ -8,4 +8,5 @@ Key results:
 - **CNN**: 89% accuracy (SEED, DE features)
 - **Hybrid CNN-BiLSTM**: 93% accuracy (SEED, DE features)
 
+# Proposed WorkFlow
 ![My Proposed Workflow](Proposed-workflow.jpg)
